@@ -836,7 +836,7 @@ int byte_read(u8* pbt_buf, u8 bt_len)
 
 static unsigned char CTPM_FW[]=
 {
-#include "ft_app.i"
+//#include "ft_app.i"    //add by chenjie
 };
 unsigned char fts_ctpm_get_i_file_ver(void)
 {
