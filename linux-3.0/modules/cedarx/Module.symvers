@@ -1,2 +1,2 @@
-0x1ea9742c	cedardev_init	/opt/A10-1.5-BT/lichee/linux-3.0/modules/cedarx/cedarx	(unknown)
-0xc31a83ad	cedardev_exit	/opt/A10-1.5-BT/lichee/linux-3.0/modules/cedarx/cedarx	(unknown)
+0x1ea9742c	cedardev_init	/home/benwu/test/swift/Linux_SourceCode/linux-3.0/modules/cedarx/cedarx	(unknown)
+0xc31a83ad	cedardev_exit	/home/benwu/test/swift/Linux_SourceCode/linux-3.0/modules/cedarx/cedarx	(unknown)
